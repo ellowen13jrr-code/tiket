@@ -1,2 +1,2 @@
 # tiket
-ss
+
